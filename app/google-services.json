@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417831066689",
+    "firebase_url": "https://notes-fb865.firebaseio.com",
+    "project_id": "notes-fb865",
+    "storage_bucket": "notes-fb865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417831066689:android:8ca91450e408f6c914bac0",
+        "android_client_info": {
+          "package_name": "com.mm.conceptrewind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417831066689-lbsjkro2ghhnmgar3r5mqcima5l3b39u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mm.conceptrewind",
+            "certificate_hash": "7715c224016177d2b8343d5fcdf13f0347e89951"
+          }
+        },
+        {
+          "client_id": "417831066689-0v7uima5acr1eacli4rsm6nqouhm5eth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XYlpnpg6fFwSz91x5S5crhoCFbSzTzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417831066689-0v7uima5acr1eacli4rsm6nqouhm5eth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
